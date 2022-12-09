@@ -1,0 +1,38 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(6, 11, 20);
+    color: rgb(125, 148, 24)
+
+}
+h1{
+    text-align: center;
+    color: rgb(73, 216, 68);
+    text-shadow: 5px 5px 5px #000000;
+    /*deslocamento-x| deslocamento-y| raio-de desfoque| cor*/
+}
+h2{
+    color: #144e38;
+}
+h2#cabecalho_ol{
+    text-align: center;
+    color: rgb(228, 8, 173);
+    text-shadow: 2px 2px 2px #000000;
+}
+hr{
+    border-top: 10px solid #ff14ff;
+}
+hr#linha1{
+    border-top: 10px dashed #ff1493;
+    border-left: 10px dashed #ff1493;
+    border-right: 10x dashed #ff1493;
+    border-bottom: 10px dashed #ff1493;
+
+} 
+img#btvoltar{
+    margin-left:5% ;
+    width: 5%;
+   }
+img{
+    margin: auto;
+   
+}
